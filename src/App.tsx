@@ -1,25 +1,35 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./styles/App.css";
+import { SWRConfig } from "swr";
+import { SearchProvider } from "./context/SearchProvider";
+import { StationProvider } from "./context/StationProvider";
+import CarsResult from "./components/CarsResult";
+import StationsSearched from "./components/StationsSearched";
+import Header from "./components/Header/Index";
 
 function App() {
+  const fetcher = (url: string) =>
+    fetch(url, {
+      headers: {
+        Authorization: `${process.env.REACT_APP_AUTHORIZATION_HEADER}`,
+      },
+    }).then((res) => {
+      return res.json();
+    });
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <SWRConfig
+      value={{
+        fetcher: fetcher,
+      }}
+    >
+      <StationProvider>
+        <SearchProvider>
+          <Header />
+          <StationsSearched />
+          <CarsResult />
+        </SearchProvider>
+      </StationProvider>
+    </SWRConfig>
   );
 }
 

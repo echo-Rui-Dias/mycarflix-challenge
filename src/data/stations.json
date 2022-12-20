@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "name": "Bacău Airport",
+        "closeDays": "[]",
+        "openTime": "6:34",
+        "closeTime": "23:09"
+    },
+    {
+        "id": 2,
+        "name": "Kalabo Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "7:55",
+        "closeTime": "23:44"
+    },
+    {
+        "id": 3,
+        "name": "Cagliari Elmas Airport",
+        "closeDays": "[]",
+        "openTime": "7:14",
+        "closeTime": "22:34"
+    },
+    {
+        "id": 4,
+        "name": "Lee Gilmer Memorial Airport",
+        "closeDays": "[]",
+        "openTime": "7:46",
+        "closeTime": "22:00"
+    },
+    {
+        "id": 5,
+        "name": "Lindu Airport",
+        "closeDays": "[]",
+        "openTime": "7:26",
+        "closeTime": "22:25"
+    },
+    {
+        "id": 6,
+        "name": "Fort McMurray / Mildred Lake Airport",
+        "closeDays": "[]",
+        "openTime": "6:11",
+        "closeTime": "22:30"
+    },
+    {
+        "id": 7,
+        "name": "Cortland County Chase Field",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "6:52",
+        "closeTime": "23:46"
+    },
+    {
+        "id": 8,
+        "name": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
+        "closeDays": "[Sun]",
+        "openTime": "6:45",
+        "closeTime": "23:25"
+    },
+    {
+        "id": 9,
+        "name": "Kapanga Airport",
+        "closeDays": "[Sun]",
+        "openTime": "7:05",
+        "closeTime": "23:10"
+    },
+    {
+        "id": 10,
+        "name": "Senggo Airport",
+        "closeDays": "[Sun]",
+        "openTime": "7:04",
+        "closeTime": "22:44"
+    },
+    {
+        "id": 11,
+        "name": "Livengood Camp Airport",
+        "closeDays": "[]",
+        "openTime": "6:32",
+        "closeTime": "22:02"
+    },
+    {
+        "id": 12,
+        "name": "Tarempa Airport",
+        "closeDays": "[]",
+        "openTime": "7:54",
+        "closeTime": "23:20"
+    },
+    {
+        "id": 13,
+        "name": "Detroit Metropolitan Wayne County Airport",
+        "closeDays": "[]",
+        "openTime": "7:05",
+        "closeTime": "23:32"
+    },
+    {
+        "id": 14,
+        "name": "Pangoa Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "7:00",
+        "closeTime": "22:16"
+    },
+    {
+        "id": 15,
+        "name": "Mitchell Airport",
+        "closeDays": "[Sun]",
+        "openTime": "7:51",
+        "closeTime": "22:36"
+    },
+    {
+        "id": 16,
+        "name": "Benguela Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "6:17",
+        "closeTime": "23:25"
+    },
+    {
+        "id": 17,
+        "name": "Portland Hillsboro Airport",
+        "closeDays": "[Sun]",
+        "openTime": "6:16",
+        "closeTime": "23:43"
+    },
+    {
+        "id": 18,
+        "name": "Donnelly Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "7:42",
+        "closeTime": "22:42"
+    },
+    {
+        "id": 19,
+        "name": "Deering Airport",
+        "closeDays": "[Sun]",
+        "openTime": "7:18",
+        "closeTime": "22:38"
+    },
+    {
+        "id": 20,
+        "name": "Andre Maggi Airport",
+        "closeDays": "[]",
+        "openTime": "6:28",
+        "closeTime": "22:14"
+    },
+    {
+        "id": 21,
+        "name": "Wonju/Hoengseong Air Base (K-38/K-46)",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "6:23",
+        "closeTime": "22:31"
+    },
+    {
+        "id": 22,
+        "name": "Tezu Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "6:19",
+        "closeTime": "23:52"
+    },
+    {
+        "id": 23,
+        "name": "Coondewanna Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "7:27",
+        "closeTime": "23:05"
+    },
+    {
+        "id": 24,
+        "name": "Nabire Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "6:03",
+        "closeTime": "23:00"
+    },
+    {
+        "id": 25,
+        "name": "San Salvador de Paul Airport",
+        "closeDays": "[]",
+        "openTime": "6:39",
+        "closeTime": "22:14"
+    },
+    {
+        "id": 26,
+        "name": "LaGrange Callaway Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "7:45",
+        "closeTime": "23:15"
+    },
+    {
+        "id": 27,
+        "name": "Caia Airport",
+        "closeDays": "[Sun]",
+        "openTime": "7:21",
+        "closeTime": "22:16"
+    },
+    {
+        "id": 28,
+        "name": "Ileg Airport",
+        "closeDays": "[]",
+        "openTime": "7:40",
+        "closeTime": "22:49"
+    },
+    {
+        "id": 29,
+        "name": "Dillon's Bay Airport",
+        "closeDays": "[]",
+        "openTime": "7:50",
+        "closeTime": "22:20"
+    },
+    {
+        "id": 30,
+        "name": "Mosteiros Airport",
+        "closeDays": "[]",
+        "openTime": "6:39",
+        "closeTime": "23:13"
+    },
+    {
+        "id": 31,
+        "name": "Kristiansund Airport (Kvernberget)",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "7:37",
+        "closeTime": "23:02"
+    },
+    {
+        "id": 32,
+        "name": "Page Municipal Airport",
+        "closeDays": "[]",
+        "openTime": "6:57",
+        "closeTime": "22:33"
+    },
+    {
+        "id": 33,
+        "name": "Roscoe Turner Airport",
+        "closeDays": "[Sun]",
+        "openTime": "6:18",
+        "closeTime": "23:20"
+    },
+    {
+        "id": 34,
+        "name": "Cap Skirring Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "6:27",
+        "closeTime": "23:12"
+    },
+    {
+        "id": 35,
+        "name": "Monticello Airport",
+        "closeDays": "[Sun]",
+        "openTime": "7:42",
+        "closeTime": "23:06"
+    },
+    {
+        "id": 36,
+        "name": "Estevan Airport",
+        "closeDays": "[Sun]",
+        "openTime": "7:46",
+        "closeTime": "23:48"
+    },
+    {
+        "id": 37,
+        "name": "Marlboro Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "7:56",
+        "closeTime": "23:04"
+    },
+    {
+        "id": 38,
+        "name": "Vadsø Airport",
+        "closeDays": "[]",
+        "openTime": "6:53",
+        "closeTime": "23:11"
+    },
+    {
+        "id": 39,
+        "name": "Mandritsara Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "6:50",
+        "closeTime": "22:54"
+    },
+    {
+        "id": 40,
+        "name": "Sheikh ul Alam Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "7:28",
+        "closeTime": "22:39"
+    },
+    {
+        "id": 41,
+        "name": "Ruhengeri Airport",
+        "closeDays": "[Sun]",
+        "openTime": "7:59",
+        "closeTime": "23:41"
+    },
+    {
+        "id": 42,
+        "name": "Hermanos Ameijeiras Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "7:36",
+        "closeTime": "22:18"
+    },
+    {
+        "id": 43,
+        "name": "Oita Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "6:35",
+        "closeTime": "23:41"
+    },
+    {
+        "id": 44,
+        "name": "Norrköping Airport",
+        "closeDays": "[]",
+        "openTime": "6:35",
+        "closeTime": "23:42"
+    },
+    {
+        "id": 45,
+        "name": "Wonsan Kalma International Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "7:52",
+        "closeTime": "22:59"
+    },
+    {
+        "id": 46,
+        "name": "Røst Airport",
+        "closeDays": "[]",
+        "openTime": "6:42",
+        "closeTime": "23:15"
+    },
+    {
+        "id": 47,
+        "name": "General Roberto Fierro Villalobos International Airport",
+        "closeDays": "[]",
+        "openTime": "7:17",
+        "closeTime": "23:00"
+    },
+    {
+        "id": 48,
+        "name": "Badajoz Airport",
+        "closeDays": "[]",
+        "openTime": "6:11",
+        "closeTime": "23:08"
+    },
+    {
+        "id": 49,
+        "name": "Rocha Airport",
+        "closeDays": "[Sat-Sun]",
+        "openTime": "6:57",
+        "closeTime": "22:55"
+    },
+    {
+        "id": 50,
+        "name": "Abha Regional Airport",
+        "closeDays": "[Sun]",
+        "openTime": "7:44",
+        "closeTime": "23:22"
+    }
+]

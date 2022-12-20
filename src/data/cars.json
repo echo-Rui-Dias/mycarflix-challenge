@@ -1,0 +1,92 @@
+[
+    {
+        "id": 182,
+        "name": "Sienna",
+        "make": "Toyota",
+        "kmsIncluded": 300,
+        "doors": 4,
+        "priceDay": "€45,82",
+        "image": "http://dummyimage.com/250x250.png/dddddd/000000"
+    },
+    {
+        "id": 97,
+        "name": "Navigator L",
+        "make": "Lincoln",
+        "kmsIncluded": 0,
+        "doors": 2,
+        "priceDay": "€21,98",
+        "image": "http://dummyimage.com/250x250.png/cc0000/ffffff"
+    },
+    {
+        "id": 109,
+        "name": "Mountaineer",
+        "make": "Mercury",
+        "kmsIncluded": 100,
+        "doors": 5,
+        "priceDay": "€42,99",
+        "image": "http://dummyimage.com/250x250.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 119,
+        "name": "Equinox",
+        "make": "Chevrolet",
+        "kmsIncluded": 300,
+        "doors": 5,
+        "priceDay": "€49,17",
+        "image": "http://dummyimage.com/250x250.png/cc0000/ffffff"
+    },
+    {
+        "id": 166,
+        "name": "Esperante",
+        "make": "Panoz",
+        "kmsIncluded": 300,
+        "doors": 2,
+        "priceDay": "€23,34",
+        "image": "http://dummyimage.com/250x250.png/cc0000/ffffff"
+    },
+    {
+        "id": 154,
+        "name": "911",
+        "make": "Porsche",
+        "kmsIncluded": 100,
+        "doors": 4,
+        "priceDay": "€41,41",
+        "image": "http://dummyimage.com/250x250.png/dddddd/000000"
+    },
+    {
+        "id": 106,
+        "name": "RX-7",
+        "make": "Mazda",
+        "kmsIncluded": 100,
+        "doors": 5,
+        "priceDay": "€34,03",
+        "image": "http://dummyimage.com/250x250.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 16,
+        "name": "2500",
+        "make": "Chevrolet",
+        "kmsIncluded": 300,
+        "doors": 2,
+        "priceDay": "€22,70",
+        "image": "http://dummyimage.com/250x250.png/ff4444/ffffff"
+    },
+    {
+        "id": 117,
+        "name": "NSX",
+        "make": "Acura",
+        "kmsIncluded": 300,
+        "doors": 4,
+        "priceDay": "€20,13",
+        "image": "http://dummyimage.com/250x250.png/ff4444/ffffff"
+    },
+    {
+        "id": 3,
+        "name": "Silverado 1500",
+        "make": "Chevrolet",
+        "kmsIncluded": 0,
+        "doors": 5,
+        "priceDay": "€37,82",
+        "image": "http://dummyimage.com/250x250.png/dddddd/000000"
+    }
+]
